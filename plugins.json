@@ -1,0 +1,212 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Aniverse.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "Aniverse",
+        "internalName": "Aniverse",
+        "authors": [
+            "Danzybae"
+        ],
+        "description": "Anime Series & Movie",
+        "fileSize": 57461,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
+        "apiVersion": 1,
+        "fileHash": "sha256-199bc10bf9fea6b3dc1bbefa4fd901e18b2cba308c31b16a41aaf23f9a153e74"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Hentaicop.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Hentaicop",
+        "internalName": "Hentaicop",
+        "authors": [
+            "zvlz"
+        ],
+        "description": "Watch free Hentai",
+        "fileSize": 15327,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "id",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://hentaicop.com/wp-content/uploads/2025/05/hencopwhite-2.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-175f8bee74be30340eb59d8774c3723ce4e8911184eccbc739be60c1dbc56e57"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Hentaihaven.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Hentaihaven",
+        "internalName": "Hentaihaven",
+        "authors": [
+            "Sora"
+        ],
+        "description": "Watch free Hentai",
+        "fileSize": 20234,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-08d31d4d1791d87cc19ad52407721ba2beaedaa7d0882f63778641edec9b99ac"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HQPorner.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "HQPorner",
+        "internalName": "HQPorner",
+        "authors": [
+            "kraptor"
+        ],
+        "description": "HD Porn Videos Tube, Thousands of High Definition Porn Videos",
+        "fileSize": 15646,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://hqporner.com/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-0f6dfbe88ef3ef81cc0a019429c969ef37c22e5a5cae5a92d8f0f169cc68433d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Idlix.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "Idlix",
+        "internalName": "Idlix",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Movies & Series",
+        "fileSize": 43065,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://z1.idlixku.com/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-15266b98122bbe0309d978821ead403f7fa59fcab099df4fbb7ec87c07ce0e36"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Javtiful",
+        "internalName": "Javtiful",
+        "authors": [
+            "ByAyzen"
+        ],
+        "description": "Japan Adult Video",
+        "fileSize": 18009,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
+        "apiVersion": 1,
+        "fileHash": "sha256-576ce264a684f1a7262e5d42ca7f6a748b439795f231166a518da9ad5f4fbda5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "MovieBox",
+        "internalName": "MovieBox",
+        "authors": [
+            "NivinCNC",
+            "Phisher98",
+            "Sofie99"
+        ],
+        "description": "Movies & Series",
+        "fileSize": 62804,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://moviebox.ph/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-be56b1df984a366e797f9e8d3b53bfcf899eab3a4d65f46976c64ba73bedcbca"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Nekopoi.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Nekopoi",
+        "internalName": "Nekopoi",
+        "authors": [
+            "ExtremeBoy"
+        ],
+        "description": "Watch free Hentai",
+        "fileSize": 24523,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "id",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://i.pinimg.com/564x/af/a3/86/afa386588abb441de84a1909d31102a9.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-63794a908f0f286f6eaedc2c972aa8e26fbef9cd8f18c7839c4e1f07d3b7ba32"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WatchHentai.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "WatchHentai",
+        "internalName": "WatchHentai",
+        "authors": [
+            "Danzybae"
+        ],
+        "description": "Watch free Hentai",
+        "fileSize": 14976,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://watchhentai.net/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-9903e4e7e34c4bf2985d302cf22af6f43e711bfa0fe936a8d14d0408d20fa935"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WOW.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "WOW",
+        "internalName": "WOW",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Premium Porn Videos",
+        "fileSize": 17212,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.wow.xxx/img/favicon/apple-touch-icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a9b62fb8b961b2de2fb3c52d3787240a4f0616801621e5df9ae191f2294af16d"
+    }
+]
