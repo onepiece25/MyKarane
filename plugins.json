@@ -64,7 +64,7 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HQPorner.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "HQPorner",
         "internalName": "HQPorner",
         "authors": [
@@ -79,7 +79,7 @@
         ],
         "iconUrl": "https://hqporner.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-0f6dfbe88ef3ef81cc0a019429c969ef37c22e5a5cae5a92d8f0f169cc68433d"
+        "fileHash": "sha256-4e61af37dbfb0bac0dcc59047023a64868a26ad7594615fd69e21817b3c580a4"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Idlix.cs3",
@@ -152,7 +152,7 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Nekopoi.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Nekopoi",
         "internalName": "Nekopoi",
         "authors": [
@@ -167,7 +167,7 @@
         ],
         "iconUrl": "https://i.pinimg.com/564x/af/a3/86/afa386588abb441de84a1909d31102a9.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-63794a908f0f286f6eaedc2c972aa8e26fbef9cd8f18c7839c4e1f07d3b7ba32"
+        "fileHash": "sha256-0a314e44c45f0b8917e8360f0347d8e7dea01d9ac5ad1c3e3cdefc4d1e1eb9b0"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WatchHentai.cs3",
