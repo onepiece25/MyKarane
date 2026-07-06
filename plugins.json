@@ -150,16 +150,16 @@
         "fileHash": "sha256-be56b1df984a366e797f9e8d3b53bfcf899eab3a4d65f46976c64ba73bedcbca"
     },
     {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Nekopoi.cs3",
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
         "status": 1,
-        "version": 6,
-        "name": "Nekopoi",
-        "internalName": "Nekopoi",
+        "version": 1,
+        "name": "NekoPoi",
+        "internalName": "NekoPoi",
         "authors": [
             "ExtremeBoy"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 24523,
+        "fileSize": 24520,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -167,7 +167,7 @@
         ],
         "iconUrl": "https://i.pinimg.com/564x/af/a3/86/afa386588abb441de84a1909d31102a9.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-0a314e44c45f0b8917e8360f0347d8e7dea01d9ac5ad1c3e3cdefc4d1e1eb9b0"
+        "fileHash": "sha256-ec232a3a3be871dd9ce384e0f4a4d83d6d8f64f8a7d8b6e6bf2bbeb5f237ed2d"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WatchHentai.cs3",
