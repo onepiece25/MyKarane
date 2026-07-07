@@ -62,26 +62,6 @@
         "fileHash": "sha256-ae66fe0d385180801b160e52c4622bc8fcd54cc0288c3a70857629a75bea53f5"
     },
     {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HQPorner.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "HQPorner",
-        "internalName": "HQPorner",
-        "authors": [
-            "onepiece25"
-        ],
-        "description": "HD Porn Videos Tube, Thousands of High Definition Porn Videos",
-        "fileSize": 15648,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "en",
-        "tvTypes": [
-            "NSFW"
-        ],
-        "iconUrl": "https://hqporner.com/favicon.ico",
-        "apiVersion": 1,
-        "fileHash": "sha256-27caeb720c113130d323008eea6d2828d5f7dedbc85d49694b8828b4357f0fcd"
-    },
-    {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/IDLIX.cs3",
         "status": 1,
         "version": 1,
@@ -103,26 +83,6 @@
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
         "fileHash": "sha256-3460e80eec30b10dc3a15761f4e84851f01710cddd1d8efb4f857f3d73e55e1b"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "Javtiful",
-        "internalName": "Javtiful",
-        "authors": [
-            "onepiece25"
-        ],
-        "description": "Japan Adult Video",
-        "fileSize": 18017,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "en",
-        "tvTypes": [
-            "NSFW"
-        ],
-        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
-        "apiVersion": 1,
-        "fileHash": "sha256-ee4e3b595c240cb7e8d6baa9343b73359f03d03a026439e5c95e93b044b6cf52"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
