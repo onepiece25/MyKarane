@@ -210,14 +210,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/YLnime.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "YLnime",
         "internalName": "YLnime",
         "authors": [
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 17769,
+        "fileSize": 18037,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -227,6 +227,6 @@
         ],
         "iconUrl": "https://ylnime.com/favicon-96x96.png",
         "apiVersion": 1,
-        "fileHash": "sha256-72da9f56c300d6e1777ad821b2509a8075bea7571dd5b3c5972527bcf62117c8"
+        "fileHash": "sha256-ac783247ffbb7c345ec0cdae376b3bed3e0fae0fd3e9211c0c67d0425e75ccf4"
     }
 ]
