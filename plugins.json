@@ -217,7 +217,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 18037,
+        "fileSize": 18508,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -227,6 +227,6 @@
         ],
         "iconUrl": "https://ylnime.com/favicon-96x96.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ac783247ffbb7c345ec0cdae376b3bed3e0fae0fd3e9211c0c67d0425e75ccf4"
+        "fileHash": "sha256-a908e806e95e5c7c9e539e13d4d9ed1e7b0989722f5a2f4c9a9f0f6e8b3b3d20"
     }
 ]
