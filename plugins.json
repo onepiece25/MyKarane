@@ -206,5 +206,27 @@
         "iconUrl": "https://www.wow.xxx/img/favicon/apple-touch-icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-9172508007b27d8cc3bb834c4eb8e7e8acebcff4b905b46553ebe8f7c70ebfda"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/YLnime.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "YLnime",
+        "internalName": "YLnime",
+        "authors": [
+            "Danzybae"
+        ],
+        "description": "Anime Series & Movie",
+        "fileSize": 15914,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://ylnime.com/favicon-96x96.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-937d60e9580b8b9d5986c91998606a9eaac6459bdcb88092e94b452d1a00c533"
     }
 ]
