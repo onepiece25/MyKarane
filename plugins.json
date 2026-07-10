@@ -1,7 +1,7 @@
 [
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniVerse.cs3",
-        "status": 1,
+        "status": 2,
         "version": 2,
         "name": "AniVerse",
         "internalName": "AniVerse",
@@ -9,7 +9,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 55548,
+        "fileSize": 54835,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-fcd3b173dd9d5ce6a48435eab1ac03b2729992adbbeaaba0925a5012f723cda4"
+        "fileHash": "sha256-bde428995e109a5511e8ce4e6fefecf9b2a508bef249fadd7d019903f035ae88"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
@@ -157,7 +157,7 @@
             "ExtremeBoy"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 24520,
+        "fileSize": 21394,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -165,7 +165,7 @@
         ],
         "iconUrl": "https://i.pinimg.com/564x/af/a3/86/afa386588abb441de84a1909d31102a9.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-ec232a3a3be871dd9ce384e0f4a4d83d6d8f64f8a7d8b6e6bf2bbeb5f237ed2d"
+        "fileHash": "sha256-0e6a701f830441af156946b53040c581f553fd05de9adf21f32c18de2016b76d"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WatchHentai.cs3",
