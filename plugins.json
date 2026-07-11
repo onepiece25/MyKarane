@@ -1,7 +1,7 @@
 [
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniVerse.cs3",
-        "status": 2,
+        "status": 1,
         "version": 2,
         "name": "AniVerse",
         "internalName": "AniVerse",
@@ -9,7 +9,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 55302,
+        "fileSize": 55441,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-bd412eb7f08f8b9bec382ba94fc239bcc1b012dd3b1378ac511120b515ee4451"
+        "fileHash": "sha256-e5dc814e1a969b63b53f7f204c84576461fb87205260bd581aff44e6dd2c3aee"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
