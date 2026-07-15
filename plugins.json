@@ -9,7 +9,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 61197,
+        "fileSize": 61202,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-5cb942e3bdb139b47231f6976940152af42b554ff586739064dd177443898820"
+        "fileHash": "sha256-c610b9b35cd02853c67d4164fe19aab492384f8725e43513d5f42e639a0516cf"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
@@ -217,7 +217,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 18840,
+        "fileSize": 19154,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -227,6 +227,6 @@
         ],
         "iconUrl": "https://ylnime.com/favicon-96x96.png",
         "apiVersion": 1,
-        "fileHash": "sha256-15ff21794d5a5d4d9f35c88ae84b77ceb09e8e8439ff83b0ab8bac3807508df7"
+        "fileHash": "sha256-0a92da20d9ae4af1e1627516ffd6b58c786767ad0693e2d041126407bdafc320"
     }
 ]
