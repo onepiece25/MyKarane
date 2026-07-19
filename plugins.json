@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-084063c48149f681ebd0c0751eebfa7e62ed61a053760ce264321ee3b1bb3241"
+        "fileHash": "sha256-d0839caa7f5722d5e126b730abbfd04a53071278f8d914aee01eb8ae1cd05b83"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniVerse.cs3",
@@ -31,7 +31,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 61984,
+        "fileSize": 61983,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-51061fc10bf29a4fc61be85e911d8b1010fc2e3bbf9e151610a4206da252f33d"
+        "fileHash": "sha256-ddbea360f2ea97041c014158a3b94adf50d81c3417af5c38fe96a700616ce4f1"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
