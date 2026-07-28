@@ -9,7 +9,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 63553,
+        "fileSize": 63595,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-58da76b2b6bcb1e183a76f601abc9eb65bcd4a7a6b9ca74f6110f44078e5afe8"
+        "fileHash": "sha256-d59f76b987a4325179e10fe1d8e5ea55e44f0a4c61469dcba8b834bc71c5bf45"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniVerse.cs3",
@@ -31,7 +31,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 63167,
+        "fileSize": 63183,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-6f0c51454deb27d7ef56d3edc19d1111eb3d09b87764d6b648bc1b68778291a0"
+        "fileHash": "sha256-5d918af30f7c0201ade6df0feba54b23c1d0af0bcf5c36e4c062f956d21b4d55"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
@@ -156,7 +156,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 66856,
+        "fileSize": 66892,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -167,7 +167,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-c0b997c1cfb9d8522fe28475bf144ad3806e10658577aa063943ede66a598aa3"
+        "fileHash": "sha256-15d5184292c6ef04a8b78bccacae7476747bd097afdd86b79e6d344e33dfcd15"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
