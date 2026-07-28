@@ -9,7 +9,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 63420,
+        "fileSize": 63553,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-811fe6b0bc0bb4e4a562e75e74d6d69acce1b140f7fbd6ddf971f7fd4a8f3772"
+        "fileHash": "sha256-58da76b2b6bcb1e183a76f601abc9eb65bcd4a7a6b9ca74f6110f44078e5afe8"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniVerse.cs3",
@@ -156,7 +156,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 66922,
+        "fileSize": 66886,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -167,7 +167,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-b17ce4114d4dc43cf25b27d87c6847d079e2bad75c523ed5946b4dc76ca1cb62"
+        "fileHash": "sha256-a7fd671b3a6b2c00bec273cced3937b22356a030972c86a67f0cd54b20879f75"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
