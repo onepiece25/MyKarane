@@ -156,7 +156,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 66892,
+        "fileSize": 66856,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -167,7 +167,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-15d5184292c6ef04a8b78bccacae7476747bd097afdd86b79e6d344e33dfcd15"
+        "fileHash": "sha256-c0b997c1cfb9d8522fe28475bf144ad3806e10658577aa063943ede66a598aa3"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
@@ -228,27 +228,5 @@
         "iconUrl": "https://www.wow.xxx/img/favicon/apple-touch-icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-9172508007b27d8cc3bb834c4eb8e7e8acebcff4b905b46553ebe8f7c70ebfda"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/YLnime.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "YLnime",
-        "internalName": "YLnime",
-        "authors": [
-            "Danzybae"
-        ],
-        "description": "Anime Series & Movie",
-        "fileSize": 19154,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "id",
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "iconUrl": "https://ylnime.com/favicon-96x96.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-0a92da20d9ae4af1e1627516ffd6b58c786767ad0693e2d041126407bdafc320"
     }
 ]
