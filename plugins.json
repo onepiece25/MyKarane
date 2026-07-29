@@ -9,7 +9,7 @@
             "Phisher98"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 17677,
+        "fileSize": 18392,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://anidb.app/images/fav-512.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ef1354ff478f905b2995944a22788fe492a8f131f3b8232f455a381153ca8516"
+        "fileHash": "sha256-f283c2cf456eff51761c296cb420c9d1f7507976dd43a84522094e458e94f603"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
