@@ -1,5 +1,27 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniDB.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "AniDB",
+        "internalName": "AniDB",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime Series & Movie",
+        "fileSize": 17677,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://anidb.app/images/fav-512.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ef1354ff478f905b2995944a22788fe492a8f131f3b8232f455a381153ca8516"
+    },
+    {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
         "status": 1,
         "version": 1,
