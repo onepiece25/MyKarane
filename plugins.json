@@ -44,16 +44,16 @@
         "fileHash": "sha256-cf8923df1af85c4f6c473e98e13e0e51f6c7ebb98dd730cdafb1fc2ee9377ae2"
     },
     {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniVerse.cs3",
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AnimeLovers.cs3",
         "status": 1,
         "version": 2,
-        "name": "AniVerse",
-        "internalName": "AniVerse",
+        "name": "AnimeLovers",
+        "internalName": "AnimeLovers",
         "authors": [
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 63204,
+        "fileSize": 63342,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -63,7 +63,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-54b16aa1e1aa02a580402b5e1b33c7d1d68d01e423f92ee7fc0f45b2a83010d1"
+        "fileHash": "sha256-ac6eb83ad6f734b5dd191c1fb9d41791b4c55ee3c61b64deb399886b132e4e56"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
@@ -167,6 +167,29 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
         "apiVersion": 1,
         "fileHash": "sha256-71ec698122acbc67b1fc3fbd93f9636bc69dfcdc37ecb57ed51e50ecd655652b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MidasXXI.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "MidasXXI",
+        "internalName": "MidasXXI",
+        "authors": [
+            "Duro92"
+        ],
+        "description": "Movies & Series",
+        "fileSize": 11949,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://midasflix.com/wp-content/uploads/2024/01/cropped-favicon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-2f39fe0ec53f43c7befeaab6b823e77b197f8d36f19a43fd23ae08cbf2aacbb8"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
