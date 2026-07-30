@@ -178,7 +178,7 @@
             "Duro92"
         ],
         "description": "Movies & Series",
-        "fileSize": 11949,
+        "fileSize": 12013,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -189,7 +189,7 @@
         ],
         "iconUrl": "https://midasflix.com/wp-content/uploads/2024/01/cropped-favicon-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2f39fe0ec53f43c7befeaab6b823e77b197f8d36f19a43fd23ae08cbf2aacbb8"
+        "fileHash": "sha256-2b924892c00651e1d71209da9881a8e902645dea0142f410687b122a28e30143"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
