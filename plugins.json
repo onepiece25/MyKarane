@@ -171,14 +171,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MidasXXI.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "MidasXXI",
         "internalName": "MidasXXI",
         "authors": [
             "Duro92"
         ],
         "description": "Movies & Series",
-        "fileSize": 21606,
+        "fileSize": 21570,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -189,7 +189,7 @@
         ],
         "iconUrl": "https://midasflix.com/wp-content/uploads/2024/01/cropped-favicon-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-996a49677e0a89cd23e115345dc3508c1172d541db7f368488885f58634cfa69"
+        "fileHash": "sha256-3d0a4d1bd3579243460bbe3441ecec4b6b9acf29f08dec452163895943898448"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
