@@ -178,7 +178,7 @@
             "Duro92"
         ],
         "description": "Movies & Series",
-        "fileSize": 21883,
+        "fileSize": 22210,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -189,7 +189,7 @@
         ],
         "iconUrl": "https://midasflix.com/wp-content/uploads/2024/01/cropped-favicon-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-cc024d1849b12ede6e173632a8c846997da5d2eb9903e9429b0db2c384bc83e8"
+        "fileHash": "sha256-5a04e602ed59e6d8677f4dc78540c0be906f7932b82c8b961bb6626bd75b29e7"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
@@ -264,7 +264,7 @@
             "Phisher98"
         ],
         "description": "Premium Porn Videos",
-        "fileSize": 17079,
+        "fileSize": 17157,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -272,6 +272,6 @@
         ],
         "iconUrl": "https://www.wow.xxx/img/favicon/apple-touch-icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9172508007b27d8cc3bb834c4eb8e7e8acebcff4b905b46553ebe8f7c70ebfda"
+        "fileHash": "sha256-e5b29138613954b9387350a0ac8ea2ebb9fbf11cdcfead646c68c85354bf3b4d"
     }
 ]
