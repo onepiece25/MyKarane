@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniDB.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "AniDB",
         "internalName": "AniDB",
         "authors": [
             "Phisher98"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 34754,
+        "fileSize": 35133,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://anidb.app/images/fav-512.png",
         "apiVersion": 1,
-        "fileHash": "sha256-843731086a0318bb99f482fd367550f25f15940b888af0c0cc938f5f988abf40"
+        "fileHash": "sha256-bbf58d238467eb5f62ea06f998efc12ad02647b4aea82f2555f6d5dd1f6a7a63"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
@@ -53,7 +53,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 63342,
+        "fileSize": 62616,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -63,7 +63,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-ac6eb83ad6f734b5dd191c1fb9d41791b4c55ee3c61b64deb399886b132e4e56"
+        "fileHash": "sha256-242a66dd0f11edf9e3963de8fbd48117740d9d63e9e4e5f419d083c3c3d18665"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
