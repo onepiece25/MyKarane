@@ -135,7 +135,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 54125,
+        "fileSize": 54207,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -146,7 +146,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a8c40ececa3be2a4d75651f6d65a08cc3ffc671d6ee01b9289bcb41ce300af47"
+        "fileHash": "sha256-e155dc2da80bc884ca4f42f45d1d45a3eefb0aaeb0d75c4ad26d35c1a7b786f4"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
@@ -201,7 +201,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 88722,
+        "fileSize": 88936,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -212,7 +212,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-aa0649e71403d7f67a05c00e20382900ae0939f481e9e4ab7f67ed10af33520b"
+        "fileHash": "sha256-86eabc092ad9b1bbbab7268600ba4ceb8f6f7c5b9e6be772fabba3a65ca469ac"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
