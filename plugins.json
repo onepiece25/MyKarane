@@ -201,7 +201,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 91698,
+        "fileSize": 91780,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -212,7 +212,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-b674d7706a919cf9e6686730bf1d4ab94104d3aa0d42c546040e5888fc78aa33"
+        "fileHash": "sha256-7fda4ed3d4bd1ad5e4ee8a71b420ce97ebc4da93e748204a56320822757dc81e"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
