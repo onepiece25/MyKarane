@@ -1,5 +1,25 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/1Porn.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "1Porn",
+        "internalName": "1Porn",
+        "authors": [
+            "danzybae"
+        ],
+        "description": "Premium Porn Videos",
+        "fileSize": 17216,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.1porn.tv/img/favicon/apple-touch-icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6027939b7224d0f8bf5c842f6204871cfd20fafb235cb79785743e6d1bc4846f"
+    },
+    {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniDB.cs3",
         "status": 1,
         "version": 3,
@@ -253,25 +273,5 @@
         "iconUrl": "https://watchhentai.net/favicon.ico",
         "apiVersion": 1,
         "fileHash": "sha256-643316c10148c17d4fbc4c1eec7f06d34cf7d33c0457c34d7b831ee8d2a99117"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WOW.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "WOW",
-        "internalName": "WOW",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "Premium Porn Videos",
-        "fileSize": 17157,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "en",
-        "tvTypes": [
-            "NSFW"
-        ],
-        "iconUrl": "https://www.wow.xxx/img/favicon/apple-touch-icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-e5b29138613954b9387350a0ac8ea2ebb9fbf11cdcfead646c68c85354bf3b4d"
     }
 ]
