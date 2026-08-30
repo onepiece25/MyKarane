@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/1Porn.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "1Porn",
-        "internalName": "1Porn",
-        "authors": [
-            "danzybae"
-        ],
-        "description": "Premium Porn Videos",
-        "fileSize": 16982,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "en",
-        "tvTypes": [
-            "NSFW"
-        ],
-        "iconUrl": "https://www.1porn.tv/img/favicon/apple-touch-icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-0e443270217653a683c665ae888eca11557d05e223b4e7d49c155b3378bfbba6"
-    },
-    {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniDB.cs3",
         "status": 1,
         "version": 4,
@@ -108,22 +88,22 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiHaven.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HentaiHaven",
         "internalName": "HentaiHaven",
         "authors": [
             "Sora"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 20228,
+        "fileSize": 20230,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
             "NSFW"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
+        "iconUrl": "https://hentaihaven.icu/wp-content/uploads/2020/11/cropped-hentaihavenico-180x180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ae66fe0d385180801b160e52c4622bc8fcd54cc0288c3a70857629a75bea53f5"
+        "fileHash": "sha256-6b4f24bfa33075b6994a1fd679d0c5101ddb4cc56c6e60ee685a048071afbb90"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HQPorner.cs3",
@@ -253,6 +233,26 @@
         "iconUrl": "https://i.pinimg.com/564x/af/a3/86/afa386588abb441de84a1909d31102a9.jpg",
         "apiVersion": 1,
         "fileHash": "sha256-7abf8c852cf17cc6afeba889a0a4a2cfccfff935bf01f042fac7d19f3ff189b1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/TXXX.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "TXXX",
+        "internalName": "TXXX",
+        "authors": [
+            "danzybae"
+        ],
+        "description": "Premium Porn Videos",
+        "fileSize": 17042,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.txxx.porn/img/favicon/apple-touch-icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-235cbdda4350cac6168314e305e787d4af0bdacee4488a8507ee021137350cab"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WatchHentai.cs3",
