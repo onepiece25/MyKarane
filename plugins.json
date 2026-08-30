@@ -22,14 +22,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniDB.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "AniDB",
         "internalName": "AniDB",
         "authors": [
             "Phisher98"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 35217,
+        "fileSize": 35664,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -39,19 +39,19 @@
         ],
         "iconUrl": "https://anidb.app/images/fav-512.png",
         "apiVersion": 1,
-        "fileHash": "sha256-23777e340c357a93457023b0be0624c2b02da5596a135872d81269d64212ec2f"
+        "fileHash": "sha256-817c41d121fd3aeea003fc61e09a5c4abf1f3b0fbde0a14c78029005d56f6105"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Animein",
         "internalName": "Animein",
         "authors": [
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 63806,
+        "fileSize": 63755,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -61,19 +61,19 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3bd235a802e22eb91d7722d493ebbdeb14dc2d80568a57338b955c1f304e2cb5"
+        "fileHash": "sha256-b0a68424a5df0bc37d32985e0ab66daf8841b818fd089cd3d153c35435920847"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AnimeLovers.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "AnimeLovers",
         "internalName": "AnimeLovers",
         "authors": [
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 62605,
+        "fileSize": 62555,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -83,7 +83,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-f3f74b7806ccfe3b193488e8031a66a4116766921eb03f70c7c92dd1a155a943"
+        "fileHash": "sha256-b8d01c7f95b8264458e6c597d657801dbc9b05565f07fe40af20e6abd12c7a51"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
@@ -148,14 +148,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/IDLIX.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "IDLIX",
         "internalName": "IDLIX",
         "authors": [
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 54450,
+        "fileSize": 55350,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -166,7 +166,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-436138e8975eee8fed71b012a214935911e481997128c1b4a408608f341c29c4"
+        "fileHash": "sha256-9e60fd3131d5e27b06dede3f3fe7b97edc51eedfdcf37f80ac60b53c38c697b1"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
@@ -214,14 +214,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "MovieBox",
         "internalName": "MovieBox",
         "authors": [
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 91780,
+        "fileSize": 92567,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -232,7 +232,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-7fda4ed3d4bd1ad5e4ee8a71b420ce97ebc4da93e748204a56320822757dc81e"
+        "fileHash": "sha256-dd94ab2ee86e72101f981d480564df0c01fd16b98740c4b86f55d4888949a536"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
