@@ -257,14 +257,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WatchHentai.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "WatchHentai",
         "internalName": "WatchHentai",
         "authors": [
             "Danzybae"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 14962,
+        "fileSize": 15390,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -272,6 +272,6 @@
         ],
         "iconUrl": "https://watchhentai.net/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-643316c10148c17d4fbc4c1eec7f06d34cf7d33c0457c34d7b831ee8d2a99117"
+        "fileHash": "sha256-93b56bd3574602202c8ab2de757b1e4143b657dbe1d7e9ef1bd5eb197ad7b0f0"
     }
 ]
