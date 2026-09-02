@@ -31,7 +31,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 63755,
+        "fileSize": 64452,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9d0b34778a3f0aa9d7ae7d981e96e7fd12cb28e38954d693dafe95c6e4fa71db"
+        "fileHash": "sha256-ab34c8e6e7def7812616d30c1572a6a104a7141fa8640214bb3e18dcce7351d0"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AnimeLovers.cs3",
@@ -135,7 +135,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 55461,
+        "fileSize": 55350,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -146,7 +146,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f0ca66e8ca1a8f8995212669bd772c19a990b87452cfed627f7a76a1a2586c86"
+        "fileHash": "sha256-7b49ea318626f5f3f229d2c3421a7ef858794bef82d478de6b08d4dc56f432c8"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
