@@ -9,7 +9,7 @@
             "Phisher98"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 36840,
+        "fileSize": 36458,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://anidb.app/images/fav-512.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c971af51e4f75fb8399fefa36c0dcb2fb369c36a6b2abd0b531a2ea1285a9e05"
+        "fileHash": "sha256-7e1d53bc04ab7c018c004a5b9dcc286023948944d0e9cb5ca86b31599b102372"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
@@ -31,7 +31,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 64461,
+        "fileSize": 64294,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-64704263ed88b0165f34479a86bcb2fba77dd358764a4d6147f9af3edb81cebe"
+        "fileHash": "sha256-543b309b1f67b828c960a79038b0304bf07bdf9fcb27472ea46e6d89ec3e7ec3"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AnimeLovers.cs3",
