@@ -9,7 +9,7 @@
             "Phisher98"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 36099,
+        "fileSize": 36389,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://anidb.app/images/fav-512.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2d434801dd872d33aa09bcbfced384b618e50305a05101a3453ec22914c1646f"
+        "fileHash": "sha256-05d70b489ee3fc2b69a5d7ef60dbb34367639c6b88b8f216b48d26dfe48ad512"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
@@ -31,7 +31,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 64442,
+        "fileSize": 64950,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-76645ffd5508fbd2045764e9d7d06565d61ff5c13fe49352aa56589b90eb2503"
+        "fileHash": "sha256-92d0212cbfdf9b04d6b981c0f456ce81160b53058711f7395a5bc1e5ec554ba8"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AnimeLovers.cs3",
@@ -53,7 +53,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 62696,
+        "fileSize": 62888,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -63,7 +63,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-afabc31a5353c5516bfb7b3f24b9bf9cb125c3357c8397cc0929411010aeec82"
+        "fileHash": "sha256-16bea69fde19bc4b55808c7227cdeb4d20d76efbcb539b0b0aae7a259c22a25d"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
