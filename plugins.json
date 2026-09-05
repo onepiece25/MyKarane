@@ -24,14 +24,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Animein",
         "internalName": "Animein",
         "authors": [
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 64643,
+        "fileSize": 64639,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d8fd8186b250d97a3cabe74b30e360979a6faf0ba66b70caeeb042b138827f03"
+        "fileHash": "sha256-b6220a35a088d54719025b6b8afe012916dbd9ff1e02cbe64349543236b67967"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AnimeLovers.cs3",
