@@ -31,7 +31,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 64442,
+        "fileSize": 65141,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://animeinweb.com/icons/apple-touch-icon-180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-da88ea73b54798c3c34c1812f3f8a3e7874eb8344f7a04fbfebbf40613ce3057"
+        "fileHash": "sha256-0992547b42212beff5fe5ac713db72b069519c85e417af3f4257e1420536e095"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AnimeLovers.cs3",
