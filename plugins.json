@@ -9,7 +9,7 @@
             "Phisher98"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 36111,
+        "fileSize": 37198,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://anidb.app/images/fav-512.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d406bef23327bbd335b332acfd6e9c0e4388c1fa107b43f813bc989c720089a9"
+        "fileHash": "sha256-fef52e7ea539f6b6800f80527b28109bc535effadd50e285494e3cd401faf52a"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
@@ -53,7 +53,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 62718,
+        "fileSize": 66252,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -63,7 +63,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-658ec52355316c8c09d1ff4f9b621ce9713d3632473b359a570cc49b84f6520e"
+        "fileHash": "sha256-6dfbadf1a9e637b94af051240c08ec573d53f76474e438fe5e0a87e8b0f14c91"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
