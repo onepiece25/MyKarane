@@ -135,7 +135,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 55350,
+        "fileSize": 56112,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -146,7 +146,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7b49ea318626f5f3f229d2c3421a7ef858794bef82d478de6b08d4dc56f432c8"
+        "fileHash": "sha256-d26aa49b537c4fcd79ef4b20fae48294d5c9a9846b5d6b0f2c2538308a736ea9"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
