@@ -1,7 +1,7 @@
 [
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniDB.cs3",
-        "status": 1,
+        "status": 0,
         "version": 5,
         "name": "AniDB",
         "internalName": "AniDB",
@@ -66,16 +66,36 @@
         "fileHash": "sha256-94a6051f6b95fdb49d9f34da7525ea871593008a8e9527736c67447c9a45b0b9"
     },
     {
+        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/FPV.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "FPV",
+        "internalName": "FPV",
+        "authors": [
+            "danzybae"
+        ],
+        "description": "Premium Porn Videos",
+        "fileSize": 16812,
+        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.freepornvideos.xxx/img/favicon/apple-touch-icon.png?v=2.0",
+        "apiVersion": 1,
+        "fileHash": "sha256-5909d644becc0546ea5250eacfea51833ae3ec40cd0a8c8ce7482fa256beb436"
+    },
+    {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HentaiCop",
         "internalName": "HentaiCop",
         "authors": [
-            "zvlz"
+            "danzybae"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 19699,
+        "fileSize": 19691,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -83,7 +103,7 @@
         ],
         "iconUrl": "https://hentaicop.com/wp-content/uploads/2025/05/hencopwhite-2.png",
         "apiVersion": 1,
-        "fileHash": "sha256-dfde1c870fb56b76fc2834320f4c495914ffb063632fd786498559d2808c7b9c"
+        "fileHash": "sha256-f26e4e35d4979d204ed17d1815a10c928e50469b8cb5c2e309a67990ddf806c2"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiHaven.cs3",
@@ -170,7 +190,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MidasXXI.cs3",
-        "status": 1,
+        "status": 0,
         "version": 2,
         "name": "MidasXXI",
         "internalName": "MidasXXI",
@@ -217,14 +237,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "NekoPoi",
         "internalName": "NekoPoi",
         "authors": [
-            "ExtremeBoy"
+            "danzybae"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 35068,
+        "fileSize": 35062,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -232,27 +252,7 @@
         ],
         "iconUrl": "https://i.pinimg.com/564x/af/a3/86/afa386588abb441de84a1909d31102a9.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-f9a6a3fd932d1ba16fecb072d520f82fa89dc296af4f915a3f4552043fcf5db9"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/TXXX.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "TXXX",
-        "internalName": "TXXX",
-        "authors": [
-            "danzybae"
-        ],
-        "description": "Premium Porn Videos",
-        "fileSize": 17042,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "en",
-        "tvTypes": [
-            "NSFW"
-        ],
-        "iconUrl": "https://www.txxx.porn/img/favicon/apple-touch-icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-235cbdda4350cac6168314e305e787d4af0bdacee4488a8507ee021137350cab"
+        "fileHash": "sha256-0be6b4fa0ff18cd74220c6ad51969c9d59a083d46e0a77d1397f77c37f2a6de9"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/WatchHentai.cs3",
