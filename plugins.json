@@ -115,7 +115,7 @@
             "Sora"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 20289,
+        "fileSize": 20344,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -123,7 +123,7 @@
         ],
         "iconUrl": "https://hentaihaven.icu/wp-content/uploads/2020/11/cropped-hentaihavenico-180x180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1d9b5317c779b83be1d3004fd3cff039cb7e8432d105ffcaf0a98cd2396f8a33"
+        "fileHash": "sha256-866a3f7ce3d15a4da8731952a4891985fe02ae048e080ba5f04b665f7b422c9e"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HQPorner.cs3",
@@ -264,7 +264,7 @@
             "Danzybae"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 15538,
+        "fileSize": 15587,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -272,6 +272,6 @@
         ],
         "iconUrl": "https://watchhentai.net/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-d601357ca46a86304154daae77a12014084c41ab1b7d76bb47fb9ac6a24fe2dc"
+        "fileHash": "sha256-27cac0a634521a98fff1b4644f3c68b140fba5023caaafa61dc508d42463cba2"
     }
 ]
