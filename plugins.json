@@ -53,7 +53,7 @@
             "Danzybae"
         ],
         "description": "Anime Series & Movie",
-        "fileSize": 66240,
+        "fileSize": 66259,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -63,7 +63,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/hD60wyoknlElZEqvTBRmfhpCDb5jbJvf9wVTqR9fbxLJ46je3yxDJHuJ3ECe9CWJbMc",
         "apiVersion": 1,
-        "fileHash": "sha256-00b8e2a6391d20e96eabf264af48d34051d33ea16c6b1d6759cbe52be8770690"
+        "fileHash": "sha256-94a6051f6b95fdb49d9f34da7525ea871593008a8e9527736c67447c9a45b0b9"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/FPV.cs3",
