@@ -221,7 +221,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 93703,
+        "fileSize": 93723,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -232,7 +232,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-6a8bef446af2ff517d4e995b4609f8cf0bf9d46ac5c22902aa5091405a9c22a2"
+        "fileHash": "sha256-98b6a51f19be816a60a782d9becec0e757fc7d13140e6760ee5d46037305023d"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
@@ -264,7 +264,7 @@
             "Danzybae"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 15587,
+        "fileSize": 15591,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -272,6 +272,6 @@
         ],
         "iconUrl": "https://watchhentai.net/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-27cac0a634521a98fff1b4644f3c68b140fba5023caaafa61dc508d42463cba2"
+        "fileHash": "sha256-e435da69cc23d492ffd51ab4421820833c37224e1729c9beb0a4db425abe7c90"
     }
 ]
