@@ -155,7 +155,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 56458,
+        "fileSize": 56480,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -166,7 +166,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-90952ab419f867acdf61cbcb0b3f4e2c27250f96a526fbe42f0e4b0d72b65c51"
+        "fileHash": "sha256-2b0b31eca3c2266dc8baec4753a4216f087f43a38e8dce31456a39f374166501"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
@@ -187,29 +187,6 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
         "apiVersion": 1,
         "fileHash": "sha256-71ec698122acbc67b1fc3fbd93f9636bc69dfcdc37ecb57ed51e50ecd655652b"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MidasXXI.cs3",
-        "status": 0,
-        "version": 2,
-        "name": "MidasXXI",
-        "internalName": "MidasXXI",
-        "authors": [
-            "Duro92"
-        ],
-        "description": "Movies & Series",
-        "fileSize": 22210,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "id",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "iconUrl": "https://midasflix.com/wp-content/uploads/2024/01/cropped-favicon-192x192.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-5a04e602ed59e6d8677f4dc78540c0be906f7932b82c8b961bb6626bd75b29e7"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
