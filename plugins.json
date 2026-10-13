@@ -178,7 +178,7 @@
             "onepiece25"
         ],
         "description": "Japan Adult Video",
-        "fileSize": 18044,
+        "fileSize": 18001,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -186,7 +186,7 @@
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-71ec698122acbc67b1fc3fbd93f9636bc69dfcdc37ecb57ed51e50ecd655652b"
+        "fileHash": "sha256-3b88ea6af07b574138bb52fa3cc7dbf4a3acf28f8772d76d1a5ddde149d0743c"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/MovieBox.cs3",
