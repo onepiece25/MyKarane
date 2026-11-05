@@ -1,27 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/AniDB.cs3",
-        "status": 0,
-        "version": 5,
-        "name": "AniDB",
-        "internalName": "AniDB",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "Anime Series & Movie",
-        "fileSize": 37198,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "en",
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "iconUrl": "https://anidb.app/images/fav-512.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-fef52e7ea539f6b6800f80527b28109bc535effadd50e285494e3cd401faf52a"
-    },
-    {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Animein.cs3",
         "status": 1,
         "version": 6,
@@ -148,14 +126,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/IDLIX.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "IDLIX",
         "internalName": "IDLIX",
         "authors": [
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 56480,
+        "fileSize": 66784,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -166,7 +144,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2b0b31eca3c2266dc8baec4753a4216f087f43a38e8dce31456a39f374166501"
+        "fileHash": "sha256-9b224784b163294b73e262140cd46560c69835834e43b8bb35548c9847cd27eb"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
