@@ -126,14 +126,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/IDLIX.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "IDLIX",
         "internalName": "IDLIX",
         "authors": [
-            "Phisher98"
+            "baedanzy"
         ],
         "description": "Movies & Series",
-        "fileSize": 86147,
+        "fileSize": 86154,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -144,7 +144,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d5f3de6e4dc64b5bd0627ab9eed87af5e72d41ad0cd4ed71d0e2ba95f75fb990"
+        "fileHash": "sha256-063217d6c92931784afb04895b6ecae32f2377feb0782a5e36ce78078fb80da1"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
