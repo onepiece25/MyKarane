@@ -64,26 +64,6 @@
         "fileHash": "sha256-5909d644becc0546ea5250eacfea51833ae3ec40cd0a8c8ce7482fa256beb436"
     },
     {
-        "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiCop.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "HentaiCop",
-        "internalName": "HentaiCop",
-        "authors": [
-            "danzybae"
-        ],
-        "description": "Watch free Hentai",
-        "fileSize": 19871,
-        "repositoryUrl": "https://github.com/onepiece25/MyKarane",
-        "language": "id",
-        "tvTypes": [
-            "NSFW"
-        ],
-        "iconUrl": "https://hentaicop.com/wp-content/uploads/2025/05/hencopwhite-2.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-963ea4e22a843354b47b0cebeaf90f2cab33673701ca977e7f16fac5380abc1c"
-    },
-    {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiHaven.cs3",
         "status": 1,
         "version": 2,
