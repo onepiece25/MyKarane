@@ -46,14 +46,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/FPV.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "FPV",
         "internalName": "FPV",
         "authors": [
             "danzybae"
         ],
         "description": "Premium Porn Videos",
-        "fileSize": 16812,
+        "fileSize": 16762,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://www.freepornvideos.xxx/img/favicon/apple-touch-icon.png?v=2.0",
         "apiVersion": 1,
-        "fileHash": "sha256-5909d644becc0546ea5250eacfea51833ae3ec40cd0a8c8ce7482fa256beb436"
+        "fileHash": "sha256-28dc2103707505c7699deaac82da560601cd40c83d2144450f8079256cd0276a"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiHaven.cs3",
@@ -156,7 +156,7 @@
             "Phisher98"
         ],
         "description": "Movies & Series",
-        "fileSize": 89267,
+        "fileSize": 88841,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -167,7 +167,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-e5ee7aa6b9ee1702b023619e5ac7908e5beb6421e286ed63bf8ba7921786aee4"
+        "fileHash": "sha256-4daffaa73ed77f6cf02dc9dc09bfd1831ed8aaa02d4f9e34d7a953f41cf23e4d"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/NekoPoi.cs3",
