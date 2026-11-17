@@ -113,7 +113,7 @@
             "baedanzy"
         ],
         "description": "Movies & Series",
-        "fileSize": 86213,
+        "fileSize": 86234,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "id",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://z1.idlixku.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3f3c243b4bcff3bf41b0062658c56953a809c74172e705ca28cc5590c2eaf4ff"
+        "fileHash": "sha256-a831f9263d873efefdf5d0b526158d5096bf782b3698d66103e4b537b379cd2a"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/Javtiful.cs3",
