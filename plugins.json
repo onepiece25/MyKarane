@@ -66,14 +66,14 @@
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HentaiHaven.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "HentaiHaven",
         "internalName": "HentaiHaven",
         "authors": [
             "Sora"
         ],
         "description": "Watch free Hentai",
-        "fileSize": 21517,
+        "fileSize": 21647,
         "repositoryUrl": "https://github.com/onepiece25/MyKarane",
         "language": "en",
         "tvTypes": [
@@ -81,7 +81,7 @@
         ],
         "iconUrl": "https://hentaihaven.icu/wp-content/uploads/2020/11/cropped-hentaihavenico-180x180.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1c2787f3880798f399c905b3c62ba726d75b08b003a9741dfafa96ec115cfddb"
+        "fileHash": "sha256-f63ed5e4a8c1340316379b851ca0c65606ef820d08166d4034d24a89b877a2ce"
     },
     {
         "url": "https://raw.githubusercontent.com/onepiece25/MyKarane/builds/HQPorner.cs3",
